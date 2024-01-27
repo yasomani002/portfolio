@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'Itim';
+    src:url('./assets/Itim-Regular.ttf')
+}
+
+::-webkit-scrollbar {
+    display: none;
+  }

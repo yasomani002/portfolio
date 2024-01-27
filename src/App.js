@@ -1,8 +1,11 @@
+import RootContainer from "./components/pages/RootContainer";
+import './App.css'
+
 function App() {
   return (
-    <div>
-      hi
-    </div>
+    <>
+      <RootContainer />
+    </>
   );
 }
 
