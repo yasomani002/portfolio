@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ff96dcb8.css",
+    "main.js": "/portfolio/static/js/main.fb0d6efe.js",
+    "static/media/Itim-Regular.ttf": "/portfolio/static/media/Itim-Regular.38b1e6579a4ae98f4318.ttf",
+    "index.html": "/portfolio/index.html",
+    "main.ff96dcb8.css.map": "/portfolio/static/css/main.ff96dcb8.css.map",
+    "main.fb0d6efe.js.map": "/portfolio/static/js/main.fb0d6efe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff96dcb8.css",
+    "static/js/main.fb0d6efe.js"
+  ]
+}
